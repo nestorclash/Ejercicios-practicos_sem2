@@ -38,7 +38,7 @@ public class Ejercicio5_sem2 {
         salarioM = salario1 / 60;
         F = salarioM * minuto;
         
-        //Formula
+        // Su Formula
         
         salarioB = salario - F;
         descuentoT = salarioB * renta;
