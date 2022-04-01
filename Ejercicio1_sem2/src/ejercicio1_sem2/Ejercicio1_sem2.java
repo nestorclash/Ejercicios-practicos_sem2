@@ -1,16 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ejercicio1_sem2;
-package ejercicios_practica2;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class Ejercicio1_sem2 {
+public class ejercicio1_sem2 {
 
     public static void main(String[] args) {
         
